@@ -24,13 +24,4 @@ To improve Vrinda store sales, consider targeting women customers in the age gro
 - The adult age group (30-49 years) is the highest contributing demographic, accounting for approximately 50% of sales.
 - Amazon, Flipkart, and Myntra are the primary sales channels, contributing to approximately 80% of total sales.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository to your local machine.
-
-```bash
-git clone https://github.com/sakshirajpal17/Excel_Project_Analysis.git
-
 
